@@ -2,7 +2,7 @@
 
 ## Hello, Devs!!
 
-**Tenho 25 anos, moro em Uberaba-MG, no momento estou cursando o último período em Sistema de Informação, sou apaixonado em programação!Sou iniciante no universo da programação Front-End estou a procura de novos desafios e de me tornar um grande programador Full Stack
+**Tenho 25 anos, moro em Uberaba-MG, no momento estou cursando o último período em Sistema de Informação, sou apaixonado em programação!Sou iniciante no universo da programação Front-End estou a procura de novos desafios e de me tornar um grande programador Full Stack**
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
