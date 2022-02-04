@@ -10,4 +10,4 @@ ________________________________________________________________________________
 
 
 
-
+<img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/insta.svg" style="max-width: 100%;">
