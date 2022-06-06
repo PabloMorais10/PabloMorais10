@@ -2,17 +2,17 @@
 
 ## Hello, Devs!!
 
-**Tenho 26 anos, moro em Uberaba-MG, no momento estou cursando o último período em Sistema de Informação, sou apaixonado em programação!Sou iniciante no universo da programação Front-End estou a procura de novos desafios e de me tornar um grande programador Full Stack**
+**Tenho 26 anos, moro em Uberaba-MG, no momento estou cursando o último período em Sistema de Informação, sou apaixonado em programação!Sou iniciante no universo da programação Back-End estou a procura de novos desafios e de me tornar um grande programador Full Stack**
 
 
 ## 🖥️ Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
 
-**📚No momento estou estudando JavaScript e React**
+**📚No momento estou estudando Python e Django**
 
 **💻GitHub em desenvolvimento** 
 
-**🌱 A procura de oportunidades para estagio em Front-End**
+**🌱 A procura de oportunidades para estagio em Back-End**
 
 **📫 Você pode falar comigo pelo Linkedin ou pelo Instagram, e se preferir pode me enviar um e-mail**
 <div>
