@@ -2,7 +2,7 @@
 
 ## Hello, Devs!!
 
-**Tenho 26 anos, moro em Uberaba-MG, no momento estou cursando o último período em Sistema de Informação, sou apaixonado em programação!Sou iniciante no universo da programação Back-End estou a procura de novos desafios e de me tornar um grande programador Full Stack**
+**Tenho 26 anos, moro em Uberaba-MG, no momento estou cursando o último período em Sistema de Informação, sou apaixonado em programação!Sou iniciante no universo da programação Front-End estou a procura de novos desafios e de me tornar um grande programador Full Stack**
 
 
 ## 🖥️ Tecnologias:
@@ -16,11 +16,11 @@
      
           
 
-**📚No momento estou estudando Python e Django**
+**📚No momento estou estudando JavaScript**
 
 **💻GitHub em desenvolvimento** 
 
-**🌱 A procura de oportunidades para estagio em Back-End**
+**🌱 A procura de oportunidades para estagio em Front-End**
 
 **📫 Você pode falar comigo pelo Linkedin ou pelo Instagram, e se preferir pode me enviar um e-mail**
 <div>
