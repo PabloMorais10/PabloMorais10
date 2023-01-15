@@ -2,20 +2,23 @@
 
 ## Hello, Devs!!
 
-**Tenho 26 anos, moro em Uberaba-MG, no momento estou cursando o último período em Sistema de Informação, sou apaixonado em programação!Sou iniciante no universo da programação Front-End estou a procura de novos desafios e de me tornar um grande programador Full Stack**
+**Tenho 26 anos, moro em Uberaba-MG, Graduado em Sistema de Informação, sou apaixonado em programação!Sou iniciante no universo da programação Front-End estou a procura de novos desafios e de me tornar um grande programador Full Stack**
 
 
 ## 🖥️ Tecnologias:
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" /> <b>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="40" height="40" /> <b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> <b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <b>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/> <b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" /> <b>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> <b>
-     <div>
+<div>
 
-     
+        
+
           
-
+          
 **📚No momento estou estudando JavaScript**
 
 **💻GitHub em desenvolvimento** 
