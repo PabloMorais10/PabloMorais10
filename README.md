@@ -32,7 +32,7 @@
 ________________________________________________________________________________________________________________________________________________________
 <div> <a href="https://github.com/PabloMorais10"> <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMorais10&layout=compact&langs_count=20&theme=cobalt"/> <img height="120em" src="https://github-readme-stats.vercel.app/api?username=PabloMorais10&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/> </div>
 
-![Snake animation](https://github.com/PabloMorais10/PabloMorais10/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/PabloMorais10/PabloMorais10/blob/output/github-contribution-grid-snake.svg) 
 
 
 
