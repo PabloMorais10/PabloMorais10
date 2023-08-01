@@ -2,7 +2,7 @@
 
 ## Hello, Devs!!
 
-**Tenho 26 anos, moro em Uberaba-MG, Graduado em Sistema de Informação, sou apaixonado em programação!Sou iniciante no universo da programação Front-End estou a procura de novos desafios e de me tornar um grande programador Full Stack**
+**Tenho 26 anos, moro em Uberaba-MG, Graduado em Sistema de Informação, sou apaixonado em programação!Sou iniciante no universo da programação Back-End estou a procura de novos desafios e de me tornar um grande programador Full Stack**
 
 
 ## 🖥️ Tecnologias:
