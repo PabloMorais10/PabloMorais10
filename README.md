@@ -20,11 +20,11 @@
 
           
           
-**📚No momento estou estudando JavaScript**
+**📚No momento estou estudando Python**
 
 **💻GitHub em desenvolvimento** 
 
-**🌱 A procura de oportunidades para estagio em Front-End**
+**🌱 A procura de oportunidades para estagio em Back-End**
 
 **📫 Você pode falar comigo pelo Linkedin ou pelo Instagram, e se preferir pode me enviar um e-mail**
 <div>
