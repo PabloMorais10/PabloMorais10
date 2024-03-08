@@ -2,7 +2,13 @@
 
 ## Hello, Devs!!
 
-**Tenho 26 anos, moro em Uberaba-MG, Graduado em Sistema de Informação, sou apaixonado em programação!Sou iniciante no universo da programação Back-End estou a procura de novos desafios e de me tornar um grande programador Full Stack**
+Olá! Sou um entusiasta da tecnologia e desenvolvedor em ascensão, apaixonado por explorar novas tecnologias e construir soluções criativas. Graduado em Sistemas de Informação, estou em constante busca por aprendizado e aprimoramento na área de desenvolvimento de software.
+
+Como desenvolvedor Back-End Júnior em formação, tenho experiência e conhecimento em HTML, CSS, Python, Delphi, GIT, GitHub e MySQL. Estou sempre buscando expandir meu conjunto de habilidades e enfrentar desafios técnicos cada vez mais complexos.
+
+Meu perfil no GitHub é o lugar onde compartilho meus projetos pessoais e de aprendizado. Estou sempre aberto a feedbacks e colaborações, e estou ansioso para fazer parte de uma comunidade de desenvolvedores talentosos e inovadores.
+
+Vamos conectar e colaborar! Confira meu perfil no GitHub e vamos criar algo incrível juntos.
 
 
 ## 🖥️ Tecnologias:
