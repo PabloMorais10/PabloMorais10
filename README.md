@@ -2,29 +2,23 @@
 
 ## Hello, Devs!!
 
-Olá! Sou um entusiasta da tecnologia e desenvolvedor em ascensão, apaixonado por explorar novas tecnologias e construir soluções criativas. Graduado em Sistemas de Informação, estou em constante busca por aprendizado e aprimoramento na área de desenvolvimento de software.
+Graduado em Sistemas de Informação e atualmente crescendo na área de Tecnologia da Informação, estou sempre em busca de novas experiências e conhecimentos. Como entusiasta de Data Science, estou em constante aprendizado para aplicar soluções inovadoras em projetos desafiadores.
 
-Como desenvolvedor Back-End Júnior em formação, tenho experiência e conhecimento em HTML, CSS, Python, Delphi, GIT, GitHub e MySQL. Estou sempre buscando expandir meu conjunto de habilidades e enfrentar desafios técnicos cada vez mais complexos.
+Possuo habilidades sólidas em SQL, Python, MySQL, Power BI e Pandas. Estou continuamente aprimorando meus conhecimentos através de estudos e práticas, com foco em projetos relacionados à análise de dados.
 
-Meu perfil no GitHub é o lugar onde compartilho meus projetos pessoais e de aprendizado. Estou sempre aberto a feedbacks e colaborações, e estou ansioso para fazer parte de uma comunidade de desenvolvedores talentosos e inovadores.
-
-Vamos conectar e colaborar! Confira meu perfil no GitHub e vamos criar algo incrível juntos.
+Você pode conferir alguns dos meus projetos no meu perfil do GitHub: https://github.com/PabloMorais10. Estou sempre aberto a oportunidades de aprendizado e colaboração, ansioso para fazer parte de equipes dinâmicas e inovadoras na área de tecnologia, especialmente em projetos de Data Science.
 
 
 ## 🖥️ Tecnologias:
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> <b>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <b>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <b>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/> <b>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" /> <b>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> <b>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />
 <div>
 
-        
-
-          
+                
           
 **📚No momento estou estudando Python**
 
