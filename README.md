@@ -26,7 +26,7 @@ Você pode conferir alguns dos meus projetos no meu perfil do GitHub: https://gi
 
 **💻GitHub em desenvolvimento** 
 
-**🌱 A procura de oportunidades para estagio em Back-End**
+**🌱 A procura de oportunidades para estagio em Data Science.**
 
 **📫 Você pode falar comigo pelo Linkedin ou pelo Instagram, e se preferir pode me enviar um e-mail**
 <div>
