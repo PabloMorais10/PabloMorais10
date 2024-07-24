@@ -6,7 +6,7 @@ Graduado em Sistemas de Informação e atualmente crescendo na área de Tecnolog
 
 Possuo habilidades sólidas em SQL, Python, MySQL, Power BI e Pandas. Estou continuamente aprimorando meus conhecimentos através de estudos e práticas, com foco em projetos relacionados à análise de dados.
 
-Você pode conferir alguns dos meus projetos no meu perfil do GitHub: https://github.com/PabloMorais10. Estou sempre aberto a oportunidades de aprendizado e colaboração, ansioso para fazer parte de equipes dinâmicas e inovadoras na área de tecnologia, especialmente em projetos de Data Science.
+Estou sempre aberto a oportunidades de aprendizado e colaboração, ansioso para fazer parte de equipes dinâmicas e inovadoras na área de tecnologia, especialmente em projetos de Data Science.
 
 
 ## 🖥️ Tecnologias:
